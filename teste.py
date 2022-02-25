@@ -1,0 +1,2 @@
+x='casa'
+type(x)
